@@ -1,0 +1,11 @@
+C:\Users\kaan\source\repos\BESCalculation\BESCalculation\bin\Debug\netcoreapp2.1\BESCalculation.deps.json
+C:\Users\kaan\source\repos\BESCalculation\BESCalculation\bin\Debug\netcoreapp2.1\BESCalculation.runtimeconfig.json
+C:\Users\kaan\source\repos\BESCalculation\BESCalculation\bin\Debug\netcoreapp2.1\BESCalculation.runtimeconfig.dev.json
+C:\Users\kaan\source\repos\BESCalculation\BESCalculation\bin\Debug\netcoreapp2.1\BESCalculation.dll
+C:\Users\kaan\source\repos\BESCalculation\BESCalculation\bin\Debug\netcoreapp2.1\BESCalculation.pdb
+C:\Users\kaan\source\repos\BESCalculation\BESCalculation\obj\Debug\netcoreapp2.1\BESCalculation.csprojAssemblyReference.cache
+C:\Users\kaan\source\repos\BESCalculation\BESCalculation\obj\Debug\netcoreapp2.1\BESCalculation.csproj.CoreCompileInputs.cache
+C:\Users\kaan\source\repos\BESCalculation\BESCalculation\obj\Debug\netcoreapp2.1\BESCalculation.AssemblyInfoInputs.cache
+C:\Users\kaan\source\repos\BESCalculation\BESCalculation\obj\Debug\netcoreapp2.1\BESCalculation.AssemblyInfo.cs
+C:\Users\kaan\source\repos\BESCalculation\BESCalculation\obj\Debug\netcoreapp2.1\BESCalculation.dll
+C:\Users\kaan\source\repos\BESCalculation\BESCalculation\obj\Debug\netcoreapp2.1\BESCalculation.pdb
