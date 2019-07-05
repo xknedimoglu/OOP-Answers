@@ -1,0 +1,11 @@
+C:\Users\kaan\source\repos\Camping\Camping\bin\Debug\netcoreapp2.1\Camping.deps.json
+C:\Users\kaan\source\repos\Camping\Camping\bin\Debug\netcoreapp2.1\Camping.runtimeconfig.json
+C:\Users\kaan\source\repos\Camping\Camping\bin\Debug\netcoreapp2.1\Camping.runtimeconfig.dev.json
+C:\Users\kaan\source\repos\Camping\Camping\bin\Debug\netcoreapp2.1\Camping.dll
+C:\Users\kaan\source\repos\Camping\Camping\bin\Debug\netcoreapp2.1\Camping.pdb
+C:\Users\kaan\source\repos\Camping\Camping\obj\Debug\netcoreapp2.1\Camping.csprojAssemblyReference.cache
+C:\Users\kaan\source\repos\Camping\Camping\obj\Debug\netcoreapp2.1\Camping.csproj.CoreCompileInputs.cache
+C:\Users\kaan\source\repos\Camping\Camping\obj\Debug\netcoreapp2.1\Camping.AssemblyInfoInputs.cache
+C:\Users\kaan\source\repos\Camping\Camping\obj\Debug\netcoreapp2.1\Camping.AssemblyInfo.cs
+C:\Users\kaan\source\repos\Camping\Camping\obj\Debug\netcoreapp2.1\Camping.dll
+C:\Users\kaan\source\repos\Camping\Camping\obj\Debug\netcoreapp2.1\Camping.pdb
