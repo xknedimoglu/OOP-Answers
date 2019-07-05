@@ -1,0 +1,11 @@
+C:\Users\kaan\source\repos\Home\Home\bin\Debug\netcoreapp2.1\Home.deps.json
+C:\Users\kaan\source\repos\Home\Home\bin\Debug\netcoreapp2.1\Home.runtimeconfig.json
+C:\Users\kaan\source\repos\Home\Home\bin\Debug\netcoreapp2.1\Home.runtimeconfig.dev.json
+C:\Users\kaan\source\repos\Home\Home\bin\Debug\netcoreapp2.1\Home.dll
+C:\Users\kaan\source\repos\Home\Home\bin\Debug\netcoreapp2.1\Home.pdb
+C:\Users\kaan\source\repos\Home\Home\obj\Debug\netcoreapp2.1\Home.csprojAssemblyReference.cache
+C:\Users\kaan\source\repos\Home\Home\obj\Debug\netcoreapp2.1\Home.csproj.CoreCompileInputs.cache
+C:\Users\kaan\source\repos\Home\Home\obj\Debug\netcoreapp2.1\Home.AssemblyInfoInputs.cache
+C:\Users\kaan\source\repos\Home\Home\obj\Debug\netcoreapp2.1\Home.AssemblyInfo.cs
+C:\Users\kaan\source\repos\Home\Home\obj\Debug\netcoreapp2.1\Home.dll
+C:\Users\kaan\source\repos\Home\Home\obj\Debug\netcoreapp2.1\Home.pdb
