@@ -1,0 +1,11 @@
+C:\Users\kaan\source\repos\Cafe\Cafe\bin\Debug\netcoreapp2.1\Cafe.deps.json
+C:\Users\kaan\source\repos\Cafe\Cafe\bin\Debug\netcoreapp2.1\Cafe.runtimeconfig.json
+C:\Users\kaan\source\repos\Cafe\Cafe\bin\Debug\netcoreapp2.1\Cafe.runtimeconfig.dev.json
+C:\Users\kaan\source\repos\Cafe\Cafe\bin\Debug\netcoreapp2.1\Cafe.dll
+C:\Users\kaan\source\repos\Cafe\Cafe\bin\Debug\netcoreapp2.1\Cafe.pdb
+C:\Users\kaan\source\repos\Cafe\Cafe\obj\Debug\netcoreapp2.1\Cafe.csprojAssemblyReference.cache
+C:\Users\kaan\source\repos\Cafe\Cafe\obj\Debug\netcoreapp2.1\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\kaan\source\repos\Cafe\Cafe\obj\Debug\netcoreapp2.1\Cafe.AssemblyInfoInputs.cache
+C:\Users\kaan\source\repos\Cafe\Cafe\obj\Debug\netcoreapp2.1\Cafe.AssemblyInfo.cs
+C:\Users\kaan\source\repos\Cafe\Cafe\obj\Debug\netcoreapp2.1\Cafe.dll
+C:\Users\kaan\source\repos\Cafe\Cafe\obj\Debug\netcoreapp2.1\Cafe.pdb
